@@ -1,0 +1,28 @@
+#定义普通数据
+name: tom
+age: 18
+
+#定义对象数据
+person:
+  name: ls
+  age: 20
+  addr: 北京
+
+#数组
+numbers:
+  - 1
+  - 2
+  - 3
+  - 4
+
+#集合
+student:
+  - name: zhangsan
+    age: 18
+    score: 100
+  - name: lisi
+    age: 28
+    score: 88
+  - name: wangwu
+    age: 38
+    score: 90
