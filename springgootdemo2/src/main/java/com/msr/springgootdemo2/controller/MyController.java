@@ -31,7 +31,7 @@ public class MyController {
     @RequestMapping("/show")
     @ResponseBody
     public String show(){
-        System.out.println("111111111111");
+        System.out.println("1111111111111");
         //System.out.println(this.name);
         //"SpringBoot--"+this.port+","+this.name+",age="+this.age;
         //System.out.println(this.numbers);
